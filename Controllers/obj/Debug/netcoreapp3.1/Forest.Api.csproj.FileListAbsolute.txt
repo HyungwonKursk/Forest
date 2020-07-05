@@ -1,0 +1,12 @@
+C:\Users\Cookie\source\repos\Forest\Controllers\bin\Debug\netcoreapp3.1\Forest.Api.deps.json
+C:\Users\Cookie\source\repos\Forest\Controllers\bin\Debug\netcoreapp3.1\Forest.Api.dll
+C:\Users\Cookie\source\repos\Forest\Controllers\bin\Debug\netcoreapp3.1\Forest.Api.pdb
+C:\Users\Cookie\source\repos\Forest\Controllers\bin\Debug\netcoreapp3.1\Forest.Contracts.dll
+C:\Users\Cookie\source\repos\Forest\Controllers\bin\Debug\netcoreapp3.1\Forest.Contracts.pdb
+C:\Users\Cookie\source\repos\Forest\Controllers\obj\Debug\netcoreapp3.1\Forest.Api.csprojAssemblyReference.cache
+C:\Users\Cookie\source\repos\Forest\Controllers\obj\Debug\netcoreapp3.1\Forest.Api.AssemblyInfoInputs.cache
+C:\Users\Cookie\source\repos\Forest\Controllers\obj\Debug\netcoreapp3.1\Forest.Api.AssemblyInfo.cs
+C:\Users\Cookie\source\repos\Forest\Controllers\obj\Debug\netcoreapp3.1\Forest.Api.csproj.CoreCompileInputs.cache
+C:\Users\Cookie\source\repos\Forest\Controllers\obj\Debug\netcoreapp3.1\Forest.Api.csproj.CopyComplete
+C:\Users\Cookie\source\repos\Forest\Controllers\obj\Debug\netcoreapp3.1\Forest.Api.dll
+C:\Users\Cookie\source\repos\Forest\Controllers\obj\Debug\netcoreapp3.1\Forest.Api.pdb
