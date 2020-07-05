@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Forest.Contracts/1.0.0": {
+        "runtime": {
+          "Forest.Contracts.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Forest.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

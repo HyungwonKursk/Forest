@@ -1,0 +1,8 @@
+C:\Users\Cookie\source\repos\Forest\Database\bin\Debug\netcoreapp3.1\Forest.Database.deps.json
+C:\Users\Cookie\source\repos\Forest\Database\bin\Debug\netcoreapp3.1\Forest.Database.dll
+C:\Users\Cookie\source\repos\Forest\Database\bin\Debug\netcoreapp3.1\Forest.Database.pdb
+C:\Users\Cookie\source\repos\Forest\Database\obj\Debug\netcoreapp3.1\Forest.Database.AssemblyInfoInputs.cache
+C:\Users\Cookie\source\repos\Forest\Database\obj\Debug\netcoreapp3.1\Forest.Database.AssemblyInfo.cs
+C:\Users\Cookie\source\repos\Forest\Database\obj\Debug\netcoreapp3.1\Forest.Database.csproj.CoreCompileInputs.cache
+C:\Users\Cookie\source\repos\Forest\Database\obj\Debug\netcoreapp3.1\Forest.Database.dll
+C:\Users\Cookie\source\repos\Forest\Database\obj\Debug\netcoreapp3.1\Forest.Database.pdb

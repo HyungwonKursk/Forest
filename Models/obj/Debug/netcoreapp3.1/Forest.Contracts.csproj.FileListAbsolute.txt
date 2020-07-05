@@ -1,0 +1,8 @@
+C:\Users\Cookie\source\repos\Forest\Models\bin\Debug\netcoreapp3.1\Forest.Contracts.deps.json
+C:\Users\Cookie\source\repos\Forest\Models\bin\Debug\netcoreapp3.1\Forest.Contracts.dll
+C:\Users\Cookie\source\repos\Forest\Models\bin\Debug\netcoreapp3.1\Forest.Contracts.pdb
+C:\Users\Cookie\source\repos\Forest\Models\obj\Debug\netcoreapp3.1\Forest.Contracts.AssemblyInfoInputs.cache
+C:\Users\Cookie\source\repos\Forest\Models\obj\Debug\netcoreapp3.1\Forest.Contracts.AssemblyInfo.cs
+C:\Users\Cookie\source\repos\Forest\Models\obj\Debug\netcoreapp3.1\Forest.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Cookie\source\repos\Forest\Models\obj\Debug\netcoreapp3.1\Forest.Contracts.dll
+C:\Users\Cookie\source\repos\Forest\Models\obj\Debug\netcoreapp3.1\Forest.Contracts.pdb
